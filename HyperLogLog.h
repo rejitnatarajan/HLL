@@ -114,4 +114,4 @@ protected:
 
 } // namespace hll
 
-#endif // !defined(HLL_HPP)
+#endif // !defined(HYPERLOGLOG_HPP)
